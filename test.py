@@ -1,2 +1,2 @@
-print("hello!!!^^^")
-print("How are you?")
+print("hi^^/~")
+print("thanks!")
